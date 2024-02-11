@@ -1,13 +1,13 @@
 import React from "react";
 import Header from "../Components/Header";
 
-const project = () => {
+const Home = () => {
   return (
     <>
       <Header />
-      <div>project</div>
+      <div>Home</div>
     </>
   );
 };
 
-export default project;
+export default Home;
